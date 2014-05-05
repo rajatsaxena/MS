@@ -32,7 +32,7 @@ For Linux :
 How to :
 --------
 
-For the moment there are 3 ways to use Jarvis :
+For the moment there are 3 ways to use MS :
 
 1. launch "ms.py" and interact with MS by typing.
 2. Speech Recognition using Google Speech :launch "google-speech.py" and interact with MS by voice.
@@ -44,7 +44,7 @@ To Do:
 
 1. In the future, you will be able to set it in a configuration file.
 
-2. When you write or speak to Jarvis, it will search in all the .txt in the "data" folder if something match. Then it will launch the action set to this sentence (actions are in the "actions" folder).
+2. When you write or speak to MS, it will search in all the .txt in the "data" folder if something match. Then it will launch the action set to this sentence (actions are in the "actions" folder).
 
 3. Also integrating sppech recognition with actions. Depending on what you say MS should take necessary actions.
 
