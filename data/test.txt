@@ -1,0 +1,13 @@
+[Bonjour]
+req1=Bonjour Jarvis
+req2=Salut Jarvis
+req3=Hello Jarvis
+import=actions.data as data
+action=data.printf('Bonjour Monsieur.')
+
+[How are you?]
+req1= How are you?
+req2= How you doing?
+import=actions.data as data
+action=data.printf('I am good. Thank you!')
+
